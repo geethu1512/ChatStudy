@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## NAME:GEETHU R
+## REGNO:212224040089
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
