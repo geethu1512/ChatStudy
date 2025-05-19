@@ -124,7 +124,9 @@ client.close()
 server.close()
 ~~~
 ## Output
-![image](https://github.com/user-attachments/assets/c21dd714-619b-43ca-ac3c-52780daf82fb)
+![1](https://github.com/user-attachments/assets/9a7b2696-d46a-492d-ae7c-b48ca7c010a5)
+
+![2](https://github.com/user-attachments/assets/82c309d8-cd3b-4666-9c5a-a9fcbce78e7d)
 
 
 ## Result:
